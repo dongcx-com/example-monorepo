@@ -1,5 +1,4 @@
-import { types } from "util";
-
+/** @type {import("cz-git").UserConfig} */
 export default {
 	extends: ["@commitlint/config-conventional"],
 	rules: {

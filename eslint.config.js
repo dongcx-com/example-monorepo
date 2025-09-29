@@ -6,7 +6,7 @@ import eslintPluginVue from "eslint-plugin-vue";
 import globals from "globals";
 import eslintConfigPrettier from "eslint-config-prettier/flat";
 
-const ignores = ["**/node_modules/**", "**/dist/**", ".*", "scripts/**", "**/*.d.ts", "commitlint.config.js"];
+const ignores = ["**/node_modules/**", "**/dist/**", ".*", "scripts/**", "**/*.d.ts"];
 
 export default defineConfig(
 	// 通用配置
