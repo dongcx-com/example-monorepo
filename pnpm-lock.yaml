@@ -67,6 +67,8 @@ importers:
 
   apps/frontend: {}
 
+  packages/components: {}
+
   packages/utils: {}
 
 packages:
