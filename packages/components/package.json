@@ -3,6 +3,14 @@
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
+	"buildOptions": {
+		"name": "TemplateMonorepoComponents",
+		"formats": [
+			"esm",
+			"cjs",
+			"iife"
+		]
+	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",

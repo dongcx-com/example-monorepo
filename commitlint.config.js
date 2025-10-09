@@ -48,7 +48,7 @@ export default {
 		],
 		useEmoji: true,
 		emojiAlign: "center",
-		scopes: ["root", "backend", "frontend", "components", "utils"],
+		scopes: ["root", "backend", "frontend", "packages", "components", "utils"],
 		allallowCustomScopes: true,
 		skipQuestions: ["body", "footerPrefix", "footer", "breaking"],
 		messages: {
